@@ -1,0 +1,3 @@
+cccccccc1
+插入 i
+退出：wq | x 
